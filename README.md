@@ -1,7 +1,7 @@
-# Flutter Date Range Picker Cell Customization
+# Flutter Date Range Picker Select All Days
 
 
-This repository contains a sample that demonstrates how to customize the cell using cellBuilder in Syncfusion® Date Range Picker package.
+This repository contains a sample that demonstrates how to select all days of header in Syncfusion® Date Range Picker package.
 
 
 ## Syncfusion® controls:
